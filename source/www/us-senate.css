@@ -9,7 +9,7 @@ body {
     position: relative;
     background-size: cover;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-    background: url(../../us-senate/images/backgrounds/1920x1080/us-senate.jpg) center center no-repeat;
+    background: url(https://civilserviceusa.github.io/us-senate/us-senate/images/backgrounds/1920x1080/us-senate.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -121,7 +121,7 @@ section.searching {
 }
 
 .card-square > .mdl-card__title {
-    background: url(background.png) center center no-repeat rgba(0,0,0,0.33);
+    background: url(https://res.cloudinary.com/just-money-now/image/upload/v1565725741/background.png) center center no-repeat rgba(0,0,0,0.33);
     background-size: 100% auto;
     overflow: hidden;
     position: relative;
